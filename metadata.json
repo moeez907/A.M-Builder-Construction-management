@@ -1,0 +1,9 @@
+{
+  "name": "Remix: A.M Builders Construction Management",
+  "description": "Comprehensive full-stack digital solution for managing construction projects, workers, labour attendance, payments ledger, materials inventory, and daily progress for A.M Builders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API",
+    "MAJOR_CAPABILITY_CLOUDSQL"
+  ]
+}
